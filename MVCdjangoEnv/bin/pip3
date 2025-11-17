@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/erwinn/Documents/UNIV/M1DWM/PROG WEB/fil_rouge_mvc/mon_login_project/MVCdjangoEnv/bin/python3" "$0" "$@"
+'''exec' "/Users/meldi/Documents/Univ/M1DWM/PROG WEB/fil_rouge_mvc/mon_login_project/mvcDjangoEnv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
